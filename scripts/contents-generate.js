@@ -28,7 +28,7 @@ for (let i = MAX; i >= 1; i--) {
     monthMap[year+'_'+month] = 1;
     fileContent.push(`### ${CN_MANTH_MAP[month]}月`)
   }
-  fileContent.push(`* 第 ${i} 期: [issue-${i}.md]('./docs/issue-${i}.md')`)
+  fileContent.push(`* 第 ${i} 期: [issue-${i}.md](./docs/issue-${i}.md)`)
    
 }
 

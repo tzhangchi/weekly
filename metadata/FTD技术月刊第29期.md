@@ -1,0 +1,6 @@
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/132503/1605587334224-a4f38259-5b9f-444e-8353-7050d1ea22a3.png#height=711&id=zyQV4&margin=%5Bobject%20Object%5D&name=image.png&originHeight=711&originWidth=1080&originalType=binary&size=1877171&status=done&style=none&width=1080)<br />1. Here’s how you can actually use Node environment variables<br />[https://www.freecodecamp.org/news/heres-how-you-can-actually-use-node-environment-variables-8fdf98f53a0a/](https://www.freecodecamp.org/news/heres-how-you-can-actually-use-node-environment-variables-8fdf98f53a0a/)<br />
+<br />2. dt-fe/weekly<br />[https://github.com/dt-fe/weekly/blob/v2/115.%E7%B2%BE%E8%AF%BB%E3%80%8ATableau%20%E5%85%A5%E9%97%A8%E3%80%8B.md](https://github.com/dt-fe/weekly/blob/v2/115.%E7%B2%BE%E8%AF%BB%E3%80%8ATableau%20%E5%85%A5%E9%97%A8%E3%80%8B.md)<br />
+<br />3. 技术路线：前端开发已进入深水区<br />[https://www.yuque.com/sxc/front/kvokg4](https://www.yuque.com/sxc/front/kvokg4)<br />
+<br />4. 前端开发环境配置<br />[https://github.com/ykfe/fe-dev-playbook](https://github.com/ykfe/fe-dev-playbook)<br />
+<br />5. 企业数据安全怎么建设<br />[https://www.infoq.cn/article/05iwLtJsdU4YxrhVeDAG](https://www.infoq.cn/article/05iwLtJsdU4YxrhVeDAG)<br />
+<br />6. 技术大牛创业失败，原来是缺少这套思考框架<br />[https://www.infoq.cn/article/LcbcZDQ8cmB7PawKhxeo](https://www.infoq.cn/article/LcbcZDQ8cmB7PawKhxeo)

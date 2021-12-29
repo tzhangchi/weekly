@@ -1,0 +1,18 @@
+# ![image.png](https://cdn.nlark.com/yuque/0/2020/png/132503/1605580751045-622c3797-def8-4fb9-9b58-233a025bd85a.png#height=810&id=nZWle&margin=%5Bobject%20Object%5D&name=image.png&originHeight=810&originWidth=1080&originalType=binary&size=746248&status=done&style=none&width=1080)
+# 在线Excel项目到底有多刺激
+[https://mp.weixin.qq.com/s/Czf0PqFVNNSc0L9-0Bg3ow](https://mp.weixin.qq.com/s/Czf0PqFVNNSc0L9-0Bg3ow)<br />
+
+# loverajoel/jstips: This is about useful JS tips!
+[https://github.com/loverajoel/jstips](https://github.com/loverajoel/jstips)<br />
+
+# Web Performance Metrics 与 Core Web Vitals 简介
+[https://mp.weixin.qq.com/s/Hmkod3gYRR38B6Qdp1Iu6g](https://mp.weixin.qq.com/s/Hmkod3gYRR38B6Qdp1Iu6g)<br />
+
+# 前端中台化，把格局做大——NodeJS 和测试服务探索
+[https://mp.weixin.qq.com/s/iy3VNI4DucHbOavvlu7XMA](https://mp.weixin.qq.com/s/iy3VNI4DucHbOavvlu7XMA)<br />
+
+# Notion的思想来源和投资人
+[https://mp.weixin.qq.com/s/eatQQa-ArDI96wROtX66dQ](https://mp.weixin.qq.com/s/eatQQa-ArDI96wROtX66dQ)<br />
+
+# 细数九种常见的设计模式
+[https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)

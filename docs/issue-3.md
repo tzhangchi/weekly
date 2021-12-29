@@ -1,5 +1,5 @@
 # FTD 技术周刊第 3 期：
-这是 「FTD 技术周刊」 第 3 期，发表于：2020年6月14日。本期刊开源（GitHub: [cg0101/FTD-weekly](https://github.com/cg0101/FTD-weekly)），欢迎 issue 区投稿，推荐或自荐项目。
+这是 「FTD 技术周刊」 第 3 期，发表于：2020年6月14日。本期刊开源（GitHub: [cg0101/weekly](https://github.com/cg0101/weekly)），欢迎 issue 区投稿，推荐或自荐项目。
 
 ![image.png](https://cdn.nlark.com/yuque/0/2020/png/132503/1605582821298-022db685-6b0f-444f-ae47-39f4618a3ddf.png#height=810&id=PkcqX&margin=%5Bobject%20Object%5D&name=image.png&originHeight=810&originWidth=1080&originalType=binary&size=746248&status=done&style=none&width=1080)<br />1. linux目录跳转的好武器z.sh - CSDN博客<br />[https://github.com/rupa/z/](https://github.com/rupa/z/)<br />
 <br />2. 前端需要了解的 SSO 与 CAS 知识<br />[https://juejin.im/post/5a002b536fb9a045132a1727](https://juejin.im/post/5a002b536fb9a045132a1727)<br />

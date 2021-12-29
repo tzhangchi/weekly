@@ -21,7 +21,7 @@ function buildMDContent(i) {
         .format("YYYY年M月D日");
     contents.push(`# FTD 技术周刊第 ${i} 期：`);
     contents.push(
-        `这是 「FTD 技术周刊」 第 ${i} 期，发表于：${pubDate}。本期刊开源（GitHub: [cg0101/FTD-weekly](https://github.com/cg0101/FTD-weekly)），欢迎 issue 区投稿，推荐或自荐项目。`
+        `这是 「FTD 技术周刊」 第 ${i} 期，发表于：${pubDate}。本期刊开源（GitHub: [cg0101/weekly](https://github.com/cg0101/weekly)），欢迎 issue 区投稿，推荐或自荐项目。`
     );
     contents.push('\n')
     contents.push(`## 📅 订阅

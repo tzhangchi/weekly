@@ -1,5 +1,5 @@
 # FTD 技术周刊第 2 期：
-这是 「FTD 技术周刊」 第 2 期，发表于：2020年6月7日。本期刊开源（GitHub: [cg0101/FTD-weekly](https://github.com/cg0101/FTD-weekly)），欢迎 issue 区投稿，推荐或自荐项目。
+这是 「FTD 技术周刊」 第 2 期，发表于：2020年6月7日。本期刊开源（GitHub: [cg0101/weekly](https://github.com/cg0101/weekly)），欢迎 issue 区投稿，推荐或自荐项目。
 
 ![image.png](https://cdn.nlark.com/yuque/0/2020/png/132503/1605582775641-8febf27f-d7ad-46b1-9496-3945477ade89.png#height=720&id=hoN1p&margin=%5Bobject%20Object%5D&name=image.png&originHeight=720&originWidth=1080&originalType=binary&size=1508557&status=done&style=none&width=1080)<br />1.Chrome 控制台console的用法<br />[https://segmentfault.com/a/1190000002511877](https://segmentfault.com/a/1190000002511877)<br />
 <br />2. 如何避免拍脑袋想出的产品优先策略<br />[https://juejin.im/post/5b37a0156fb9a00e78666072](https://juejin.im/post/5b37a0156fb9a00e78666072)<br />

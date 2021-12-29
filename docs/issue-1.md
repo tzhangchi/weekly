@@ -1,5 +1,5 @@
 # FTD 技术周刊第 1 期：
-这是 「FTD 技术周刊」 第 1 期，发表于：2020年5月31日。本期刊开源（GitHub: [cg0101/FTD-weekly](https://github.com/cg0101/FTD-weekly)），欢迎 issue 区投稿，推荐或自荐项目。
+这是 「FTD 技术周刊」 第 1 期，发表于：2020年5月31日。本期刊开源（GitHub: [cg0101/weekly](https://github.com/cg0101/weekly)），欢迎 issue 区投稿，推荐或自荐项目。
 
 ![image.png](https://cdn.nlark.com/yuque/0/2020/png/132503/1605582746585-a55eb9de-243f-4c3e-b0d2-91bd7c6e2319.png#height=720&id=yKjYE&margin=%5Bobject%20Object%5D&name=image.png&originHeight=720&originWidth=1080&originalType=binary&size=1282459&status=done&style=none&width=1080)
 

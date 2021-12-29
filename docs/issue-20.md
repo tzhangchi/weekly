@@ -1,6 +1,8 @@
 # FTD 技术周刊第 20 期：
 这是 「FTD 技术周刊」 第 20 期，发表于：2020年10月11日。本期刊开源（GitHub: [cg0101/weekly](https://github.com/cg0101/weekly)），欢迎 issue 区投稿，推荐或自荐项目。
 ## 封面图
+
+
 ![image.png](https://cdn.nlark.com/yuque/0/2020/png/132503/1605584623391-fd9c3ef6-cb9e-4a71-a1e9-d9cf1726ec90.png#height=676&id=ug997&margin=%5Bobject%20Object%5D&name=image.png&originHeight=676&originWidth=1080&originalType=binary&size=788195&status=done&style=none&width=1080)<br />1. shell编程范例<br />[https://tinylab.gitbooks.io/shellbook/zh/preface/01-chapter1.html](https://tinylab.gitbooks.io/shellbook/zh/preface/01-chapter1.html)<br />
 <br />2. 使用sql语句来管理文件系统<br />[https://github.com/kashav/fsql](https://github.com/kashav/fsql)<br />
 <br />3. 白鸦内部培训：企业服务类产品的底层逻辑，和“有赞产品设计原则”<br />[https://mp.weixin.qq.com/s/-kLQPDU-9337mN1ebjuYqA](https://mp.weixin.qq.com/s/-kLQPDU-9337mN1ebjuYqA)<br />
@@ -12,3 +14,9 @@
 
 ## 📅 订阅
 本周刊每周日发布，同步更新在语雀 [[zhangchi1024/weekly](https://www.yuque.com/zhangchi1024/weekly)」 。
+
+
+微信搜索 「zhangchi_insight」 或者扫描二维码，即可订阅。
+    ![image.png](https://cdn.nlark.com/yuque/0/2021/jpeg/132503/1640750963398-e8538e9e-6b96-46f7-abff-c93b56bdd377.jpeg?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_36%2Ctext_5byg6amw%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10%2Fresize%2Cw_426%2Climit_0)
+    
+    （完）

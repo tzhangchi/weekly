@@ -1,3 +1,5 @@
+const WEEKLY_START_DATE = require('./config').WEEKLY_START_DATE;
+
 const fs = require("fs");
 const moment = require("moment");
 
@@ -14,10 +16,9 @@ function buildMD(i, fileContent) {
     );
 }
 function buildMDContent(i) {
-    // let lastDate = "2021-12-24";
     let contents = [];
-    let pubDate = moment("2021-12-26")
-        .subtract((83 - i) * 7, "days")
+    let pubDate = moment(WEEKLY_START_DATE)
+        .add((i-1) * 7, "days")
         .format("YYYY年M月D日");
     contents.push(`# FTD 技术周刊第 ${i} 期：`);
 

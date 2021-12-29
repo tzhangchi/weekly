@@ -1,5 +1,27 @@
 {
   "devDependencies": {
     "moment": "^2.29.1"
-  }
+  },
+  "name": "weekly",
+  "description": "技术与科技月刊 - 知识的快照，记录每周值得分享的技术内容，周日发布 。",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build:issues":"cd ./scripts && node issues-generate.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cg0101/FTD-weekly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cg0101/FTD-weekly/issues"
+  },
+  "homepage": "https://github.com/cg0101/FTD-weekly#readme"
 }

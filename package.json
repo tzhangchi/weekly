@@ -12,6 +12,7 @@
   "scripts": {
     "build:issues":"cd ./scripts && node issues-generate.js",
     "build:contents":"cd ./scripts && node contents-generate.js",
+    "update":"npm run build:issues && npm run build:contents",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

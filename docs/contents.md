@@ -1,3 +1,6 @@
+## 2022
+### 一月
+* 第 84 期: [issue-84.md](./docs/issue-84.md)
 ## 2021
 ### 十二月
 * 第 83 期: [issue-83.md](./docs/issue-83.md)

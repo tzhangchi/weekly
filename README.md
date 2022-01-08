@@ -1,10 +1,11 @@
-# weekly
-🔥 Awesome design and tech weekly article list.  FTD 技术与科技月刊 - 知识的快照，记录每周值得分享的技术内容，周日发布 。
+# FTD 技术周刊
+技术与科技月刊 - 知识的快照，记录每周值得分享的技术内容，周日发布 。
 
 欢迎投稿，推荐或自荐文章/软件/资源，请提交 [issue](https://github.com/cg0101/weekly/issues) 。![](https://visitor-badge.glitch.me/badge?page_id=cg0101.weekly) <a href="https://github.com/cg0101/weekly">
 
 ## 2022
 ### 一月
+* 第 85 期: [issue-85.md](./docs/issue-85.md)
 * 第 84 期: [issue-84.md](./docs/issue-84.md)
 ## 2021
 ### 十二月

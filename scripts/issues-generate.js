@@ -30,10 +30,7 @@ function buildMDContent(i) {
 	contents.push(`## 封面图`);
 	contents.push("\n");
 	contents.push(
-		fs.readFileSync(
-			path.join(rootDirPath, "metadata", `metadata-issues-${i}.md`),
-			"utf-8"
-		)
+		fs.readFileSync(path.join(rootDirPath, "metadata", `m${i}.md`), "utf-8")
 	);
 
 	contents.push("\n");

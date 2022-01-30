@@ -5,6 +5,7 @@
 
 ## 2022
 ### 一月
+* 第 88 期: [issue-88.md](./docs/issue-88.md)
 * 第 87 期: [issue-87.md](./docs/issue-87.md)
 * 第 86 期: [issue-86.md](./docs/issue-86.md)
 * 第 85 期: [issue-85.md](./docs/issue-85.md)

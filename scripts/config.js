@@ -1,4 +1,4 @@
 module.exports = {
 	WEEKLY_START_DATE: "2020-05-31",
-	WEEKLY_MAX_NUM: 88,
+	WEEKLY_MAX_NUM: 89,
 };

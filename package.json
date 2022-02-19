@@ -14,6 +14,7 @@
     "build:contents":"cd ./scripts && node contents-generate.js",
     "update":"npm run build:issues && npm run build:contents",
     "test": "echo \"Error: no test specified\" && exit 1",
+    "log":"npm run weeklylog",
     "weeklylog":"git add . && git commit -m \"feat:update weekly\"",
     "start":"npm run update && npm run weeklylog"
   },

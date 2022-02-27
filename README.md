@@ -5,6 +5,7 @@
 
 ## 2022
 ### 二月
+* 第 92 期: [issue-92.md](./docs/issue-92.md)
 * 第 91 期: [issue-91.md](./docs/issue-91.md)
 * 第 90 期: [issue-90.md](./docs/issue-90.md)
 * 第 89 期: [issue-89.md](./docs/issue-89.md)

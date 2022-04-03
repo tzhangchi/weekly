@@ -1,5 +1,9 @@
 ## 2022
+### 四月
+* 第 97 期: [issue-97.md](./docs/issue-97.md)
 ### 三月
+* 第 96 期: [issue-96.md](./docs/issue-96.md)
+* 第 95 期: [issue-95.md](./docs/issue-95.md)
 * 第 94 期: [issue-94.md](./docs/issue-94.md)
 * 第 93 期: [issue-93.md](./docs/issue-93.md)
 ### 二月

@@ -1,0 +1,13 @@
+lockfileVersion: 5.3
+
+specifiers:
+  moment: ^2.29.1
+
+devDependencies:
+  moment: 2.29.2
+
+packages:
+
+  /moment/2.29.2:
+    resolution: {integrity: sha512-UgzG4rvxYpN15jgCmVJwac49h9ly9NurikMWGPdVxm8GZD6XjkKPxDTjQQ43gtGgnV3X0cAyWDdP2Wexoquifg==}
+    dev: true

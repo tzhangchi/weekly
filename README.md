@@ -4,6 +4,8 @@
 欢迎投稿，推荐或自荐文章/软件/资源，请提交 [issue](https://github.com/cg0101/weekly/issues) 。![](https://visitor-badge.glitch.me/badge?page_id=cg0101.weekly) <a href="https://github.com/cg0101/weekly">
 
 ## 2022
+### 六月
+* 第 106 期: [issue-106.md](./docs/issue-106.md)
 ### 五月
 * 第 105 期: [issue-105.md](./docs/issue-105.md)
 * 第 104 期: [issue-104.md](./docs/issue-104.md)

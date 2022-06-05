@@ -1,4 +1,6 @@
 ## 2022
+### 六月
+* 第 106 期: [issue-106.md](./docs/issue-106.md)
 ### 五月
 * 第 105 期: [issue-105.md](./docs/issue-105.md)
 * 第 104 期: [issue-104.md](./docs/issue-104.md)
